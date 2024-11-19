@@ -1,4 +1,4 @@
-# Project--SONACARTE
+# Project SONACARTE
 SonaCarte is an Android app designed using Java to simplify campus navigation for Sona University students, staff, and visitors. Featuring interactive maps, hidden spot highlights (like food courts, restrooms, water dispensers, study halls), and hands-free navigation, it ensures a seamless campus experience.
 
 ---
@@ -15,7 +15,7 @@ Ensure you have the following installed/setup before proceeding:
 ### Steps to Set Up
 ```bash
 # Step 1: Clone the Repository
-git clone https://github.com/YourUsername/SonaCarte.git
+git clone https://github.com/SaumyaSrinivasan/SonaCarte.git
 cd SonaCarte
 
 # Step 2: Open the Project in Android Studio
